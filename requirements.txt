@@ -1,0 +1,4 @@
+pyserial
+minimalmodbus
+pymodbus
+numpy
